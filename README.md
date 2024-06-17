@@ -1,9 +1,9 @@
 # Unity Interaction Controllers
 
 Allows for quickly adding movement and jump capabilities to an object and makes it easier to write object behavior scripts by responding to change events of:
-- Movement
-- Jumping
-- UI
+- **Movement**
+- **Jumping**
+- **UI**
 
 ## Like this
 
