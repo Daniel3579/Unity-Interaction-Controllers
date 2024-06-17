@@ -209,7 +209,9 @@ public class ObjectBehaviorModel: MonoBehaviour, IMoveForward, IMoveBack, IMoveR
 ```
 
 ## Install Guide
-Import `Interaction Controllers.unitypackage` in Unity project  
+Import [**Interaction Controllers.unitypackage**](https://github.com/Daniel3579/Unity-Interaction-Controllers/releases/download/Release/Interaction.Controllers.unitypackage)
+in Unity project  
 via `Assets` &rarr; `Import Package` &rarr; `Custom Package` &rarr; `Interaction Controllers.unitypackage`
 
-You can also import a **demo project** or run a **MacOS application**
+You can also import a [**demo project**](https://github.com/Daniel3579/Unity-Interaction-Controllers/releases/download/Release/Demo.unitypackage)
+or run a [**MacOS application**](https://github.com/Daniel3579/Unity-Interaction-Controllers/releases/download/Release/Demo.dmg)
